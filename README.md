@@ -1,5 +1,7 @@
 # Dictionary App
 
+![Preview](Preview.png)
+
 The Dictionary App is a user-friendly web application that allows users to search for the meanings, phonetics, synonyms, and sources of English words. Built using HTML, CSS, and JavaScript, the app utilizes the [Dictionary API](https://dictionaryapi.dev/) to provide comprehensive word definitions.
 
 ## Features
